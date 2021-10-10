@@ -1,1 +1,1 @@
-# new-trex-game
+# TrexGame
